@@ -1,0 +1,143 @@
+[[libgifextra]]
+arch = "aarch64"
+git-tree-sha1 = "3ac6f523bf3f1bc0742e573f03c9d4728619a2d4"
+os = "macos"
+
+    [[libgifextra.download]]
+    sha256 = "74c50184a7fda4ea45a4ca8aa0a24f54140bc5f924bf29d92f13b2822c126cda"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.aarch64-apple-darwin.tar.gz"
+[[libgifextra]]
+arch = "aarch64"
+git-tree-sha1 = "f7d2999938dd9f70b57d3a6b1298cc5a322e6789"
+libc = "glibc"
+os = "linux"
+
+    [[libgifextra.download]]
+    sha256 = "516ca97f5a56832ee185d252c6db034004094bcfc6a186f4399ada9e700da451"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.aarch64-linux-gnu.tar.gz"
+[[libgifextra]]
+arch = "aarch64"
+git-tree-sha1 = "ea50bd3f0c7c6df570ad21f5bd810483e6ac2525"
+libc = "musl"
+os = "linux"
+
+    [[libgifextra.download]]
+    sha256 = "82bad18eaa640b1d7e01038ccb5b8f45652d41cb9adb2fefba8c86bc342073be"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.aarch64-linux-musl.tar.gz"
+[[libgifextra]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "bf2d8e6daf75d1bef78c8f568b766451195c4524"
+libc = "glibc"
+os = "linux"
+
+    [[libgifextra.download]]
+    sha256 = "b46af0c57276f2d5fd0e8db4db9f60cb191dafa6089aab826440a3a75ad02839"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.armv6l-linux-gnueabihf.tar.gz"
+[[libgifextra]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c9dd1ea6ea54023a61a3cb49ad635dd3534e5cc4"
+libc = "musl"
+os = "linux"
+
+    [[libgifextra.download]]
+    sha256 = "eef1b9f2c034321583e85433f705c30e7ddf2ca05b80bf384a60e3958fba9021"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.armv6l-linux-musleabihf.tar.gz"
+[[libgifextra]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "0690cff305e2d8abd5f62cf99f9b7ad3b11a461b"
+libc = "glibc"
+os = "linux"
+
+    [[libgifextra.download]]
+    sha256 = "dde82947d8c2d468b603018c495adf74d27b77458afe524798b4966497f287f3"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.armv7l-linux-gnueabihf.tar.gz"
+[[libgifextra]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "916a95495167a5bf4f6ef02794e789006c2fd10a"
+libc = "musl"
+os = "linux"
+
+    [[libgifextra.download]]
+    sha256 = "0802378f9e0baa99d76477891104a1d98f107340ac716a6a27580e830219eb2a"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.armv7l-linux-musleabihf.tar.gz"
+[[libgifextra]]
+arch = "i686"
+git-tree-sha1 = "b2c86c49414a7776e801ac62bdc82fff9a274cf9"
+libc = "glibc"
+os = "linux"
+
+    [[libgifextra.download]]
+    sha256 = "1979d73f5ff3ed97eb47771eeff49dff20ef94f67c8e7f24cd9a391d39de45c4"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.i686-linux-gnu.tar.gz"
+[[libgifextra]]
+arch = "i686"
+git-tree-sha1 = "c3e4ffa4c9ffe90ae683217b96653fc6ffa62700"
+libc = "musl"
+os = "linux"
+
+    [[libgifextra.download]]
+    sha256 = "acb0be817c788e80537a6f698f4359fa7a22f2ea693901d402c7b34f4a9b01dc"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.i686-linux-musl.tar.gz"
+[[libgifextra]]
+arch = "i686"
+git-tree-sha1 = "f0fc0f90c540acf6700191c95c3d0308bf8d0e60"
+os = "windows"
+
+    [[libgifextra.download]]
+    sha256 = "e2e11eac64676f896053c36dc18291663d942dbe4ac1c3303085d2ca8bcde95f"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.i686-w64-mingw32.tar.gz"
+[[libgifextra]]
+arch = "powerpc64le"
+git-tree-sha1 = "4a268503e0a3483568c617ca4ebaa8bc96af70d5"
+libc = "glibc"
+os = "linux"
+
+    [[libgifextra.download]]
+    sha256 = "f230727a0a03f1949168281dea26ef876243e7c9cfe4449592f6a2ed3d3a6fda"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.powerpc64le-linux-gnu.tar.gz"
+[[libgifextra]]
+arch = "x86_64"
+git-tree-sha1 = "a69222b5067d957daaf4addd64aaafb8d3b715e8"
+os = "macos"
+
+    [[libgifextra.download]]
+    sha256 = "05d36bf5c45a55fc49635eb62c3766ce5ab363cea61bf856f1845a5cb46ead90"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.x86_64-apple-darwin.tar.gz"
+[[libgifextra]]
+arch = "x86_64"
+git-tree-sha1 = "0f7aaea67bfcfae6be281ad7465ab516208dd718"
+libc = "glibc"
+os = "linux"
+
+    [[libgifextra.download]]
+    sha256 = "93151a823645011c5caccf89cae7096ae967d160ec8a7d40399faa1917604a83"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.x86_64-linux-gnu.tar.gz"
+[[libgifextra]]
+arch = "x86_64"
+git-tree-sha1 = "240ad4e72513e4c43a5596ea6af637f3b019702e"
+libc = "musl"
+os = "linux"
+
+    [[libgifextra.download]]
+    sha256 = "3f89d0d3fa1eebf9622549b59f8ebd69a5007ff5bbca49a2777dbf874c7b425a"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.x86_64-linux-musl.tar.gz"
+[[libgifextra]]
+arch = "x86_64"
+git-tree-sha1 = "26a559833e4ff5c6aee7c1b878d98956c8bd499b"
+os = "freebsd"
+
+    [[libgifextra.download]]
+    sha256 = "371d5b13376401c710438cc89232367d434b6c0fe1af5830af55c41584ed93de"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.x86_64-unknown-freebsd.tar.gz"
+[[libgifextra]]
+arch = "x86_64"
+git-tree-sha1 = "0fea2f7f9ede8707ffab3622b24de357a1773814"
+os = "windows"
+
+    [[libgifextra.download]]
+    sha256 = "6964ac77ae6096ce3f3b6628458019ac5767956470273caa5c1bad10b8b310a9"
+    url = "https://github.com/JuliaBinaryWrappers/libgifextra_jll.jl/releases/download/libgifextra-v0.0.1+0/libgifextra.v0.0.1.x86_64-w64-mingw32.tar.gz"
